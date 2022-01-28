@@ -1,6 +1,6 @@
-<mxfile modified="2022-01-28T00:01:28.003Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="utoWW6D3_SkWqs1iKj4L" version="16.4.7" type="github">
+<mxfile modified="2022-01-28T20:54:31.208Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="681SNIi7Tv146YNNNByU" version="16.4.7" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="1853" dy="1703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2107" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -306,7 +306,7 @@
         <mxCell id="2mOgIgbufrFKnN0tF16E-1095" value="" style="fillColor=#FFB570;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" vertex="1" parent="1">
           <mxGeometry x="1420" y="190.5" width="570" height="309.5" as="geometry" />
         </mxCell>
-        <mxCell id="2mOgIgbufrFKnN0tF16E-1096" value="GMS SME" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
+        <mxCell id="2mOgIgbufrFKnN0tF16E-1096" value="GMS" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
           <mxGeometry x="1430" y="197" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1097" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;elbow=vertical;html=1;labelBackgroundColor=none;startFill=1;startSize=4;endArrow=classicThin;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=12;fontColor=#000000;align=left;dashed=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2mOgIgbufrFKnN0tF16E-1096" target="2mOgIgbufrFKnN0tF16E-1098">
@@ -322,7 +322,7 @@
         <mxCell id="2mOgIgbufrFKnN0tF16E-1098" value="SNOW INCIDENTS" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
           <mxGeometry x="1800" y="197" width="180" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="2mOgIgbufrFKnN0tF16E-1099" style="edgeStyle=orthogonalEdgeStyle;rounded=0;elbow=vertical;html=1;labelBackgroundColor=none;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=12;fontColor=#000000;align=left;dashed=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2mOgIgbufrFKnN0tF16E-1098">
+        <mxCell id="2mOgIgbufrFKnN0tF16E-1099" style="edgeStyle=orthogonalEdgeStyle;rounded=0;elbow=vertical;html=1;labelBackgroundColor=none;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=12;fontColor=#000000;align=left;dashed=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2mOgIgbufrFKnN0tF16E-1098">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1890" y="250" />
@@ -330,7 +330,7 @@
               <mxPoint x="2240" y="-130" />
             </Array>
             <mxPoint x="1845" y="300" as="sourcePoint" />
-            <mxPoint x="2260" y="-130" as="targetPoint" />
+            <mxPoint x="2130" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1102" value="CLOUD SERVICE PROVIDER (CSP)" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=1;dashed=0;fontSize=12;fontColor=#9E9E9E;align=center;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;fontStyle=1" vertex="1" parent="1">
@@ -371,6 +371,9 @@
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1067" value="PUBLISH PRIVATE ARTICLE" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" vertex="1" parent="1">
           <mxGeometry x="1150" y="426" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2mOgIgbufrFKnN0tF16E-1109" value="This architecture document should be placed in the TOP/WW/HPE/IT Domain in the &quot;Knowledge Management&quot; Knowledgebase.&amp;nbsp;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" vertex="1" parent="1">
+          <mxGeometry x="700" y="819.25" width="710" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
