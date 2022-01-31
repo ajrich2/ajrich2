@@ -1,4 +1,4 @@
-<mxfile modified="2022-01-31T23:29:32.215Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="iwmHjAOj2JRjqtuCJ9EM" version="16.4.7" type="github">
+<mxfile modified="2022-01-31T23:31:39.304Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="DfG_9k5kjduDNbxXYOiV" version="16.4.7" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="2036" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="997" value="KNOWLEDGE SUBMISSION" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" parent="1" vertex="1">
           <mxGeometry x="1061" y="235" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="818" value="Architecture: GLCP Proposed KM Process Workflow &lt;br&gt;Update section 2.1 in&amp;nbsp;&amp;nbsp;HPE ServiceNow Knowledge Module S.O.P." style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=center;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
+        <mxCell id="818" value="Long Term Proposal&lt;br&gt;Architecture: GLCP Proposed KM Process Workflow &lt;br&gt;Update section 2.1 in&amp;nbsp;&amp;nbsp;HPE ServiceNow Knowledge Module S.O.P." style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=center;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
           <mxGeometry x="744.5" y="30" width="820" height="80" as="geometry" />
         </mxCell>
         <mxCell id="985" value="CustomerX&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;fontStyle=1" parent="1" vertex="1">
@@ -150,13 +150,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1055" value="PUBLlSH PUBLIC ARTICLE" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" vertex="1" parent="1">
-          <mxGeometry x="1073" y="490.5" width="159" height="30" as="geometry" />
+          <mxGeometry x="1066.5" y="489" width="159" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1058" value="HPE BRANDING REVIEW" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" vertex="1" parent="1">
-          <mxGeometry x="1074.5" y="450" width="160" height="30" as="geometry" />
+          <mxGeometry x="1066.5" y="449" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1059" value="HPE SECURITY REVIEW" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" vertex="1" parent="1">
-          <mxGeometry x="1073.5" y="410" width="160" height="30" as="geometry" />
+          <mxGeometry x="1068.5" y="410" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1092" value="" style="fillColor=#FFF4C3;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" vertex="1" parent="1">
           <mxGeometry x="241" y="180" width="570" height="360" as="geometry" />
@@ -175,7 +175,7 @@
           <mxGeometry x="856" y="439" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1066" value="KNOWLEDGE REVIEW" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" vertex="1" parent="1">
-          <mxGeometry x="1081" y="370" width="140" height="30" as="geometry" />
+          <mxGeometry x="1076" y="367" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1068" style="edgeStyle=orthogonalEdgeStyle;rounded=0;elbow=vertical;html=1;labelBackgroundColor=none;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=12;fontColor=#000000;align=left;dashed=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -363,7 +363,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1067" value="PUBLISH PRIVATE ARTICLE" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="439" width="180" height="30" as="geometry" />
+          <mxGeometry x="1265" y="437" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1109" value="This architecture document should be placed in the TOP/WW/HPE/IT Domain in the &quot;Knowledge Management&quot; Knowledgebase.&amp;nbsp;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" vertex="1" parent="1">
           <mxGeometry x="811" y="819.25" width="710" height="30" as="geometry" />
