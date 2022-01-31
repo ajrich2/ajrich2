@@ -1,6 +1,6 @@
-<mxfile modified="2022-01-29T00:06:28.002Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="t81bV-rieTgZQv0L1jGx" version="16.4.7" type="github">
+<mxfile modified="2022-01-31T23:29:32.215Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="iwmHjAOj2JRjqtuCJ9EM" version="16.4.7" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="1612" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2036" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,8 +35,8 @@
             <mxPoint x="1321" y="452.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2mOgIgbufrFKnN0tF16E-1009" value="DOMAIN&lt;br&gt;TOP/WW/GMS/GLHC" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1081" y="540.5" width="130" height="60" as="geometry" />
+        <mxCell id="2mOgIgbufrFKnN0tF16E-1009" value="DOMAIN&lt;br&gt;TOP/WW/GMS/GL CENTRAL" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="540.5" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1022" value="DOMAIN&lt;br&gt;TOP/WW/GMS/GLHC/CUSTOMERX" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
           <mxGeometry x="841" y="486.75" width="210" height="60" as="geometry" />
@@ -149,8 +149,8 @@
             <mxPoint x="1611" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2mOgIgbufrFKnN0tF16E-1055" value="PUBLIC PUBLIC ARTICLE" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="490.5" width="159" height="30" as="geometry" />
+        <mxCell id="2mOgIgbufrFKnN0tF16E-1055" value="PUBLlSH PUBLIC ARTICLE" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" vertex="1" parent="1">
+          <mxGeometry x="1073" y="490.5" width="159" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1058" value="HPE BRANDING REVIEW" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" vertex="1" parent="1">
           <mxGeometry x="1074.5" y="450" width="160" height="30" as="geometry" />
@@ -330,7 +330,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1102" value="CLOUD SERVICE PROVIDER (CSP)" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=1;dashed=0;fontSize=12;fontColor=#9E9E9E;align=center;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="391" y="190" width="284" height="30" as="geometry" />
+          <mxGeometry x="370" y="190" width="284" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;elbow=vertical;html=1;labelBackgroundColor=none;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=12;fontColor=#000000;align=left;dashed=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2mOgIgbufrFKnN0tF16E-1009" target="2mOgIgbufrFKnN0tF16E-1096">
           <mxGeometry relative="1" as="geometry">
@@ -372,7 +372,7 @@
           <mxGeometry x="1911" y="370" width="180" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1112" value="MANAGED SERVICE PROVIDER (MSP)" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=1;dashed=0;fontSize=12;fontColor=#9E9E9E;align=center;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1672" y="199" width="284" height="30" as="geometry" />
+          <mxGeometry x="1672" y="200" width="284" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1114" value="GLC REQUESTS" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" vertex="1" parent="1">
           <mxGeometry x="1271" y="650" width="110" height="30" as="geometry" />
@@ -487,10 +487,10 @@
           <mxGeometry x="876" y="358" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1144" value="PROPOSED ARTICLE&amp;nbsp;DISCLOSURE LEVELS&lt;br&gt;---&lt;br&gt;CUSTOMER DOMAIN PRIVATE&lt;br&gt;GLHC DOMAIN PUBLIC&lt;br&gt;PUBLIC (WEB - HPESC?)&lt;br&gt;COMPANY CONFIDENTIAL&lt;br&gt;FOR CHANNEL PARTNER INTERNAL USE" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=1;dashed=0;fontSize=12;fontColor=#9E9E9E;align=center;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="230" y="700" width="284" height="130" as="geometry" />
+          <mxGeometry x="227" y="692.5" width="284" height="130" as="geometry" />
         </mxCell>
         <mxCell id="2mOgIgbufrFKnN0tF16E-1145" value="PROPOSED ARTICLE TYPES&amp;nbsp;&lt;br&gt;---&lt;br&gt;ENGINEERING ADVISORY&lt;br&gt;HOT TO, OR HOW DO I?&lt;br&gt;INFORMATIONAL&lt;br&gt;GMS RUNBOOK&lt;br&gt;TROUBLESHOOTING&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=1;dashed=0;fontSize=12;fontColor=#9E9E9E;align=center;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="527" y="700" width="284" height="127" as="geometry" />
+          <mxGeometry x="527" y="694" width="284" height="127" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
